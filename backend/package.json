@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JIoJIaJIu/saw/issues"
   },
-  "homepage": "https://github.com/JIoJIaJIu/saw"
+  "homepage": "https://github.com/JIoJIaJIu/saw",
+  "dependencies": {
+    "config": "^1.16.0",
+    "hapi": "^11.0.5",
+    "ioredis": "^1.10.0",
+    "lodash": "^3.10.1"
+  }
 }
